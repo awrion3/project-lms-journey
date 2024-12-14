@@ -2,14 +2,14 @@
 
 ---
 
-### 01. Let's play
+### 01. Guess What
 
-### 02. Quiz by me
+### 02. Keeping Company
 
-### 03. Rank with us
+### 03. Rise Up
 
-### 04. Snack time
+### 04. Snack Time
 
-### 05. Knights and Knaves
+### 05. Knights, Knaves
 
 ---
