@@ -1,23 +1,23 @@
-## Module II. Twenty Questions
+# Journey, A Learning Management System
 
 ---
 
-### 01. Guess What
+## 1. Account
 
 ---
 
-### 02. Keeping Company
+## 2. Course
 
 ---
 
-### 03. Rise Up
+## 3. Quest
 
 ---
 
-### 04. Snack Time
+## 4. Report
 
 ---
 
-### 05. Knights, Knaves
+## 5. Forum
 
 ---
